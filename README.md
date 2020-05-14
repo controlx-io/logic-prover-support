@@ -43,5 +43,3 @@ with right combination allows testing almost any PLC logic. It helps you to impr
 ![[screenshot](https://drive.google.com/uc?id=1elarwMhy5-Dq___vMc0u_4IF5xVpFFtd)](https://drive.google.com/uc?id=1elarwMhy5-Dq___vMc0u_4IF5xVpFFtd)
 
 Read more on our website: [https://www.controlx.io/](https://www.controlx.io/)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-68133629-12/logic-prover-support/readme)](https://www.controlx.io)
