@@ -14,7 +14,8 @@ Screenshots would be helpful. There is a quick set of guidelines below.
 ### Product Roadmap
 
 If you are curious about the features and enhancements planned for upcoming releases, check 
-out [Projects](https://github.com/controlx-io/logic-prover-support/projects).
+out [Projects](https://github.com/controlx-io/logic-prover-support/projects). Also, click _Watch_ button at the 
+top to stay updated with the progress.
 
 ### Documentation
 
