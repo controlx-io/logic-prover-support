@@ -1,7 +1,8 @@
 ## PLC Logic Prover
 _Quality of PLC program defined by the quantity of tests._
 
-<sub>This is a support page, for downloads visit our official website [www.controlx.io](https://www.controlx.io)</sub>
+<sub>This is a support page, for downloads visit our official 
+website [www.controlx.io/downloads](https://www.controlx.io/downloads?utm_source=github&utm_medium=readme). </sub>
 
 ### Support
 
