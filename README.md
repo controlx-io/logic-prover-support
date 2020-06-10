@@ -42,6 +42,6 @@ When reporting a new issue in the issue tracker, check whether it helps to answe
 PLC Logic Prover is a tool with a suite of action units which 
 with right combination allows testing almost any PLC logic. It helps you to improve quality of your PLC program.
 
-![[screenshot](https://drive.google.com/uc?id=1elarwMhy5-Dq___vMc0u_4IF5xVpFFtd)](https://drive.google.com/uc?id=1elarwMhy5-Dq___vMc0u_4IF5xVpFFtd)
+![[screenshot](https://github.com/controlx-io/logic-prover-support/tree/master/screenshots/plc_logic_prover_v0.1.12.png)](https://github.com/controlx-io/logic-prover-support/tree/master/screenshots/plc_logic_prover_v0.1.12.png)
 
 Read more on our website: [https://www.controlx.io/](https://www.controlx.io/)
