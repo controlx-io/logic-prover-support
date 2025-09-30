@@ -3,7 +3,7 @@ _The quality of a PLC program is defined by the quantity of tests._
 
 <sub>This is a support page, for information read [wiki](https://github.com/controlx-io/logic-prover-support/wiki). </sub>
 
-## NO ACTIVE DEVELOPMENT ON THIS PROJECT. Migrating to open source.
+## NO ACTIVE DEVELOPMENT ON THIS PROJECT
 
 ### Support
 
@@ -22,7 +22,7 @@ top to stay updated with the progress.
 ### Documentation
 
 If you are looking for more information regarding features, installation and usage of the app, head over to 
-the [Documentation page](https://www.controlx.io/logic-prover-docs).
+the [Documentation page](https://github.com/controlx-io/logic-prover-support/wiki/Documentation).
 
 ### Guidelines for reporting issues
 
